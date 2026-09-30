@@ -1,0 +1,6 @@
+package com.fakestore.api.constants;
+
+public class FrameworkConstants{
+	
+	public static final String CONFIG_FILE_PATH = "src/main/resources/config/config.properties";
+}
